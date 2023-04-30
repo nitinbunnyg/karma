@@ -30,8 +30,8 @@
 - [x] Uses asyncio for improved performance
 - [x] Saves output to files - separates targets by folders
       and modules by files
-- [x] Expand, test, and merge the "owasp" branch with more web application attacks and scans ([#28](https://github.com/evyatarmeged/karma/issues/28))
-- [x] Support more providers for vulnerable storage scan ([#27](https://github.com/evyatarmeged/karma/issues/27))
+- [x] Expand, test, and merge the "owasp" branch with more web application attacks and scans 
+- [x] Support more providers for vulnerable storage scan 
 - [x] Add more WAFs, better detection
 - [x] Support multiple hosts (read from file)
 - [x] Rate limit evasion
