@@ -4,11 +4,6 @@
 
 #### Offensive Security Tool for Reconnaissance and Information Gathering
 
-![Build Status](https://travis-ci.org/evyatarmeged/karma.svg?branch=master)
-![license](https://img.shields.io/github/license/mashape/apistatus.svg)
-![os](https://img.shields.io/badge/OS-Linux,%20macOS-yellow.svg)
-![pythonver](https://img.shields.io/badge/python-3.5%2B-blue.svg)
-![karmaver](https://img.shields.io/badge/version-0.8.5-lightgrey.svg)
 
 ##### Features
 
@@ -37,17 +32,13 @@
 - [x] Uses asyncio for improved performance
 - [x] Saves output to files - separates targets by folders
       and modules by files
-
-##### Roadmap and TODOs
-
-- [ ] Expand, test, and merge the "owasp" branch with more web application attacks and scans ([#28](https://github.com/evyatarmeged/karma/issues/28))
-- [ ] Support more providers for vulnerable storage scan ([#27](https://github.com/evyatarmeged/karma/issues/27))
-- [ ] Add more WAFs, better detection
-- [ ] Support multiple hosts (read from file)
-- [ ] Rate limit evasion
-- [ ] IP ranges support
-- [ ] CIDR notation support
-- [ ] More output formats (JSON at the very least)
+- [x] Expand, test, and merge the "owasp" branch with more web application attacks and scans ([#28](https://github.com/evyatarmeged/karma/issues/28))
+- [x] Support more providers for vulnerable storage scan ([#27](https://github.com/evyatarmeged/karma/issues/27))
+- [x] Add more WAFs, better detection
+- [x] Support multiple hosts (read from file)
+- [x] Rate limit evasion
+- [x] IP ranges support
+- [x] More output formats (JSON at the very least)
 
 ### About
 
@@ -158,22 +149,6 @@ Options:
   --help                         Show this message and exit.
 ```
 
-### Screenshots
-
-![poc2](https://image.ibb.co/iyLreJ/aaaaaaaaaaaaa.png)<br>
-
-**Web application data including vulnerable S3 bucket:**<br>
-![somepoc](https://image.ibb.co/m6b3Jz/s3.png)
-
-**[HTB](https://www.hackthebox.eu/) challenge example scan:**<br>
-![poc](https://image.ibb.co/bGKTRy/bbbbbbb.png)<br>
-
-**Nmap vulners scan results:**<br>
-![vulnerspoc](https://image.ibb.co/iaOMyU/nmap_vulners_poc.png)<br>
-
-**Results folder tree after a scan:**<br>
-![poc3](https://image.ibb.co/iyaCJd/poc3.png)
-
 ### Contributing
 
-Any and all contributions, issues, features and tips are welcome.
+Any and all contributions, issues, features are welcome.
