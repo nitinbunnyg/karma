@@ -1,7 +1,5 @@
 # karma
 
-![Racoon](https://image.ibb.co/dkAq4J/karma.png)
-
 #### Offensive Security Tool for Reconnaissance and Information Gathering
 
 
