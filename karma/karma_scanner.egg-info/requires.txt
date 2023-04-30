@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+dnspython
+lxml
+click
+fake-useragent
+requests[socks]
+xmltodict
